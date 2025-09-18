@@ -1,0 +1,8 @@
+langchain-community 
+langchain-openai
+chromadb
+pydantic
+pandas
+fastapi[standard]
+duckduckgo-search
+wikipedia
